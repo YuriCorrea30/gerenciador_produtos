@@ -1,0 +1,16 @@
+{
+  "name": "gerenciador_produtos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^5.0.0",
+    "pg": "^8.0.0"
+  }
+}
